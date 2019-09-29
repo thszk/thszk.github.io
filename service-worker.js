@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/vdtec/precache-manifest.e27113eede7884f3425bdc63c94130bb.js"
+  "/vdtec/precache-manifest.64f8699e7facd2f0fc61954a620e99c5.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vdtec"});
