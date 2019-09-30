@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/vdtec/robots.txt"
   },
   {
-    "revision": "a1c42f01e9697d1068d4",
-    "url": "/vdtec/js/chunk-vendors.9a1ab908.js"
+    "revision": "9269300c4086af18ce46",
+    "url": "/vdtec/js/chunk-vendors.7af5d912.js"
   },
   {
-    "revision": "e993f7cdd1f5e00bbe57",
-    "url": "/vdtec/js/app.e13dae0b.js"
+    "revision": "77a2f8198db677d1e80d",
+    "url": "/vdtec/js/app.0cf9938d.js"
   },
   {
-    "revision": "2819a1e3fc23fa8a3bd1eaa970dc0942",
+    "revision": "b69dca10de20f14d2fbddc1d33b0e2f0",
     "url": "/vdtec/index.html"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/vdtec/img/custom/android-chrome-192x192.png"
   },
   {
-    "revision": "a1c42f01e9697d1068d4",
-    "url": "/vdtec/css/chunk-vendors.e2ec4697.css"
+    "revision": "9269300c4086af18ce46",
+    "url": "/vdtec/css/chunk-vendors.455e7f8d.css"
   }
 ];
