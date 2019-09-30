@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/vdtec/js/chunk-vendors.9a1ab908.js"
   },
   {
-    "revision": "626c0a2ee334e93a70f6",
-    "url": "/vdtec/js/app.80b68d5f.js"
+    "revision": "333f7da7664b1024fd02",
+    "url": "/vdtec/js/app.9d3a8ac8.js"
   },
   {
-    "revision": "d3987c77f18e59eb91cbea2cf52bface",
+    "revision": "39a20db82afde71f8cef491dcc06cce5",
     "url": "/vdtec/index.html"
   },
   {
