@@ -12,7 +12,7 @@ self.__precacheManifest = [
     "url": "/vdtec/js/app.0cf9938d.js"
   },
   {
-    "revision": "b69dca10de20f14d2fbddc1d33b0e2f0",
+    "revision": "177dc04329769b1d03ff084fef330872",
     "url": "/vdtec/index.html"
   },
   {
