@@ -8,11 +8,11 @@ self.__precacheManifest = [
     "url": "/vdtec/js/chunk-vendors.7af5d912.js"
   },
   {
-    "revision": "77d9383c791e26e98ba5",
-    "url": "/vdtec/js/app.db6e54af.js"
+    "revision": "d235db65b244b549a2f9",
+    "url": "/vdtec/js/app.e3eb0053.js"
   },
   {
-    "revision": "6805d93d4446d89cf3fa5497c994abca",
+    "revision": "6ba0d3971f7d044c83eb14fcdf292102",
     "url": "/vdtec/index.html"
   },
   {
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/vdtec/css/chunk-vendors.455e7f8d.css"
   },
   {
-    "revision": "77d9383c791e26e98ba5",
+    "revision": "d235db65b244b549a2f9",
     "url": "/vdtec/css/app.9cf7746c.css"
   }
 ];
